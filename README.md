@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Joel 👋</h1>
 
 <p align="center">
-🚀 DevOps Engineer | 🛡️ Kubernetes & Cloud Enthusiast | 🔧 Builder of Tools & Infra | ☁️ Multi-Cloud Explorer
+🚀 Software & DevOps Engineer | 🛡️ Kubernetes & Cloud Enthusiast | 🔧 Builder of Tools & Infra | ☁️ Multi-Cloud Explorer
 </p>
 
 ---
